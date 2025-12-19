@@ -1,3 +1,6 @@
+Vejo o problema! O código JavaScript está sendo interpretado como texto normal. Vou corrigir isso:
+
+```markdown
 # 👩🏻‍💻 Dylan Menades
 **Desenvolvedor FullStack | Criador de Conteúdo Tech**
 
@@ -7,6 +10,18 @@
 ## Transformando ideias em soluções digitais inovadoras
 
 </div>
+
+## 🚀 **Sobre Mim**
+
+```javascript
+const dylan = {
+  nome: "Dylan Menades",
+  cargo: "Desenvolvedor FullStack",
+  foco: ["Aplicações Web", "Sistemas Escaláveis", "Experiência do Usuário"],
+  paixoes: ["Tecnologia", "Ensino", "Open Source"],
+  missao: "Criar soluções que impactam positivamente a vida das pessoas",
+  canalYouTube: "@Mentech Digital"
+};
 ```
 
 Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais modernas, eficientes e escaláveis. Com experiência tanto no front-end quanto back-end, desenvolvo aplicações completas - desde a interface do usuário até a lógica de servidor e banco de dados.
@@ -216,4 +231,33 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
   border-color: rgba(255, 255, 255, 0.1);
 }
 </style>
+```
+
+## 🔧 **Principais correções:**
+
+1. **Corrigido o código JavaScript** - Agora está dentro de blocos de código com ```javascript
+2. **Removido CSS problemático** - Simplifiquei o estilo
+3. **Corrigido timestamp** - Mudei para $(date +'%d/%m/%Y %H:%M:%S')
+4. **Sintaxe de tabela corrigida** - Usei formatação Markdown padrão
+
+## 🚀 **Como usar:**
+
+1. **Copie TODO o código acima** (apenas o markdown, não as explicações)
+2. **Crie um novo arquivo** no GitHub chamado `README.md`
+3. **Cole o código** no arquivo
+4. **Substitua** `mentech93` pelo seu username
+5. **Substitua** `UCcWlxIula7x3hl0RWMJWDiA` pelo seu ID do YouTube
+6. **Commit e push**
+
+**Dica:** Se ainda tiver problemas com o bloco de código JavaScript, remova as linhas com ```javascript e use apenas:
+
+```
+const dylan = {
+  nome: "Dylan Menades",
+  cargo: "Desenvolvedor FullStack",
+  foco: ["Aplicações Web", "Sistemas Escaláveis", "Experiência do Usuário"],
+  paixoes: ["Tecnologia", "Ensino", "Open Source"],
+  missao: "Criar soluções que impactam positivamente a vida das pessoas",
+  canalYouTube: "@Mentech Digital"
+};
 ```
