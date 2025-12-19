@@ -16,31 +16,6 @@
 
 </div>
 
-## 🎯 **Perfil em Destaque**
-
-<div align="center">
-
-```typescript
-interface TechLeader {
-  name: "Dylan Menades";
-  role: "Arquiteto Full Stack & Educador Tech";
-  experience: "8+ anos transformando requisitos em soluções escaláveis";
-  philosophy: "Código limpo, arquitetura sólida, impacto mensurável";
-  specialties: {
-    frontend: ["Next.js 14", "React 18", "TypeScript", "Micro-frontends"];
-    backend: ["Node.js", "NestJS", "Arquitetura de Microsserviços", "APIs GraphQL"];
-    devops: ["AWS", "Docker", "Kubernetes", "CI/CD Pipelines"];
-    data: ["PostgreSQL", "Redis", "MongoDB", "Elasticsearch"];
-    leadership: ["Mentoria", "Code Reviews", "Arquitetura de Sistemas", "Documentação"];
-  };
-  currentFocus: {
-    project: "Plataforma SaaS de Gestão Empresarial";
-    techStack: ["Next.js 14", "NestJS", "PostgreSQL", "Redis", "AWS"];
-    impact: "+15 empresas atendidas, 99.9% uptime";
-  };
-}
-```
-
 </div>
 
 ## 📊 **Dashboard GitHub**
