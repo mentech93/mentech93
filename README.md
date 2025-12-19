@@ -1,115 +1,162 @@
-# 👨‍💻 **Digital Artisan | Developer & Creator**
+# 👩🏻‍💻 Dylan Menades
 
-I'm a full-stack developer and content creator building my vision of the digital world—one line of code, one video, one innovation at a time. Every project starts from a blank canvas, from initial concept and design to solving real-world problems with elegant solutions. Every piece of content is crafted with the same dedication, from ideation to final artistic touches. I share this journey on my YouTube channel **[Mentech Digital][youtube]** with a growing community of developers and creators.
+**`Desenvolvedor FullStack | Criador de Conteúdo Tech`**
 
-   <p align="left">
-      <a href="https://www.youtube.com/@Mentecch?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCcWlxIula7x3hl0RWMJWDiA?color=%2300ff88&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=0d1117"/></a> 
-      <a href="https://www.youtube.com/@Mentecch">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCcWlxIula7x3hl0RWMJWDiA?color=%2300ff88&logo=eye&logoColor=white&style=for-the-badge&labelColor=0d1117"/></a> 
-      <a href="https://github.com/mentech93?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mentech93?color=00ff88&labelColor=0d1117&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/mentech93?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mentech93?color=00ff88&style=for-the-badge&labelColor=0d1117&logo=star"/></a>
-   </p>
+<div align="center">
+  
+![Banner Tech](https://github.com/mentech93/mentech93/blob/main/assets/banner-tech.gif?raw=true)
 
----
+*Transformando ideias em soluções digitais inovadoras*
 
-### 🛠️ **Tools of the Trade**
+</div>
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+## 🚀 **Sobre Mim**
+Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais modernas, eficientes e escaláveis. Com experiência tanto no front-end quanto back-end, desenvolvo aplicações completas - desde a interface do usuário até a lógica de servidor e banco de dados.
+
+🎯 **Meu objetivo:** Transformar problemas complexos em soluções elegantes e funcionais, sempre aplicando as melhores práticas de desenvolvimento.
+
+📚 **Como educador:** Divulgo conhecimento através do canal **[Mentech Digital](https://www.youtube.com/@Mentecch)** no YouTube, onde ensino desenvolvimento web de forma prática e acessível.
 
 ---
 
-### 📺 **Latest Creations**
+## 📊 **GitHub Analytics**
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Building a SaaS from Scratch in 30 Days](https://ytcards.demolab.com/?id=example1&title=Building+a+SaaS+from+Scratch+in+30+Days&lang=en&timestamp=1765898031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1200 "Building a SaaS from Scratch in 30 Days")](https://www.youtube.com/watch?v=example1)
-[![Microservices Architecture Explained Simply](https://ytcards.demolab.com/?id=example2&title=Microservices+Architecture+Explained+Simply&lang=en&timestamp=1765822504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=900 "Microservices Architecture Explained Simply")](https://www.youtube.com/watch?v=example2)
-[![TypeScript Pro Tips You Need to Know](https://ytcards.demolab.com/?id=example3&title=TypeScript+Pro+Tips+You+Need+to+Know&lang=en&timestamp=1765565103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600 "TypeScript Pro Tips You Need to Know")](https://www.youtube.com/watch?v=example3)
-[![How I Built My Developer Portfolio](https://ytcards.demolab.com/?id=example4&title=How+I+Built+My+Developer+Portfolio&lang=en&timestamp=1764612900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=800 "How I Built My Developer Portfolio")](https://www.youtube.com/watch?v=example4)
-[![AI Tools That Changed How I Code](https://ytcards.demolab.com/?id=example5&title=AI+Tools+That+Changed+How+I+Code&lang=en&timestamp=1763053302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=750 "AI Tools That Changed How I Code")](https://www.youtube.com/watch?v=example5)
-[![From Zero to Full-Stack Developer](https://ytcards.demolab.com/?id=example6&title=From+Zero+to+Full-Stack+Developer&lang=en&timestamp=1761941401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1500 "From Zero to Full-Stack Developer")](https://www.youtube.com/watch?v=example6)
-<!-- END YOUTUBE-CARDS -->
+<div align="center">
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Watch%20More%20Videos-00ff88?style=for-the-badge&logo=video&logoColor=white&labelColor=0d1117"/>](https://www.youtube.com/@Mentecch?sub_confirmation=1)
+| **Estatísticas** | **Linguagens** | **Contribuições** |
+|:---:|:---:|:---:|
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=mentech93&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=fff&hide_border=true&include_all_commits=true&count_private=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mentech93&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=fff&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mentech93&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=fff&hide_border=true) |
+
+</div>
 
 ---
 
-### 📊 **Craftsmanship Metrics**
+## 🛠️ **Stack Tecnológica**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mentech93&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide_border=true)
+### **🌐 Frontend & UI/UX**
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mentech93&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&hide_border=true&layout=compact&langs_count=8)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mentech93&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=ffffff&hide_border=true)
+### **⚙️ Backend & APIs**
+<div align="center">
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+</div>
+
+### **🗄️ Banco de Dados**
+<div align="center">
+  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+### **🚀 DevOps & Ferramentas**
+<div align="center">
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-### 🎨 **Featured Projects**
+## 🎯 **Projetos em Destaque**
 
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| **[DevKit Pro](https://github.com/mentech93/devkit-pro)** | Complete developer toolkit for modern workflows | TypeScript, Node.js, CLI |
-| **[UI Factory](https://github.com/mentech93/ui-factory)** | AI-powered component generation system | React, Tailwind, OpenAI |
-| **[FastStart Templates](https://github.com/mentech93/faststart)** | Production-ready project starters | Next.js, Docker, AWS |
+<div align="center">
 
----
+| Projeto | Descrição | Tecnologias |
+|:---:|:---|:---|
+| **[🔗 Projeto JS](https://github.com/mentech93)** | Sistema web completo com dashboard | `React` `Node.js` `MongoDB` |
+| **[🔗 API REST](https://github.com/mentech93)** | API escalável com autenticação JWT | `Express` `JWT` `PostgreSQL` |
+| **[🔗 E-commerce](https://github.com/mentech93)** | Plataforma de vendas online | `Next.js` `Stripe` `Tailwind` |
+| **[🔗 App Mobile](https://github.com/mentech93)** | Aplicativo React Native | `React Native` `Firebase` |
 
-### 📝 **Latest Articles**
-
-<!-- BLOG-POST-LIST:START -->
-- [The Art of Clean Code: Lessons from 10 Years of Development](https://mentech.digital/blog/clean-code)
-- [Building Scalable APIs: A Practical Guide](https://mentech.digital/blog/scalable-apis)
-- [From Developer to Creator: My Journey](https://mentech.digital/blog/developer-to-creator)
-- [TypeScript Patterns That Changed My Workflow](https://mentech.digital/blog/typescript-patterns)
-- [The Future of Full-Stack Development](https://mentech.digital/blog/future-fullstack)
-<!-- BLOG-POST-LIST:END -->
+</div>
 
 ---
 
-### 🤝 **Connect & Collaborate**
+## 📈 **Atividades Recentes**
 
-<p align="left">
-   <a href="https://youtube.com/@Mentecch">
-      <img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117"/></a>
-   <a href="https://github.com/mentech93">
-      <img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
-   <a href="https://linkedin.com/in/mentech">
-      <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-   <a href="https://twitter.com/mentechdigital">
-      <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/></a>
-   <a href="https://mentech.digital">
-      <img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-00ff88?style=for-the-badge&logo=globe&logoColor=white&labelColor=0d1117"/></a>
-</p>
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mentech93&theme=react-dark&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true)
+
+</div>
 
 ---
 
-### 🌱 **Currently Crafting**
+## 🎥 **Conteúdo & Educação**
 
-- 🚀 **Next.js 15 Course** - Complete guide to modern web development
-- 🏗️ **Open Source Design System** - Building a component library for everyone
-- 📚 **Developer Handbook** - From zero to professional developer
-- 🎬 **Documentary Series** - The human side of technology
+<div align="center">
 
-> *"Great software is not just built—it's crafted. Every line tells a story, every project shares a vision, and every creation inspires what comes next."*
+### 📺 **Mentech Digital - YouTube**
+[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mentecch)
+[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=INSCRITOS&color=FF0000)](https://youtube.com/@Mentecch?sub_confirmation=1)
+[![Views](https://img.shields.io/youtube/channel/views/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=VISUALIZAÇÕES&color=FF0000)](https://www.youtube.com/@Mentecch)
 
-[youtube]: https://youtube.com/@Mentecch
+**🎯 Foco:** Tutoriais de programação, projetos práticos, dicas de carreira tech
+
+</div>
+
+---
+
+## 🤝 **Vamos Conectar!**
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&width=150)](https://www.youtube.com/@Mentecch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=150)](https://linkedin.com/in/mentech)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&width=150)](https://github.com/mentech93)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&width=150)](https://instagram.com/mentech.digital)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&width=150)](https://twitter.com/mentechdigital)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&width=150)](https://discord.gg/mentech)
+
+</div>
+
+---
+
+## 📊 **Estatísticas em Tempo Real**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mentech93&color=00ff88&style=for-the-badge&label=VISITAS+AO+PERFIL)
+![Followers](https://img.shields.io/github/followers/mentech93?color=00ff88&label=Seguidores&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/mentech93?color=00ff88&label=Estrelas&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 **"Código é poesia, e cada linha conta uma história"**
+
+⭐ **Se encontrar algo interessante, não hesite em dar uma estrela!**
+
+📧 **Interessado em colaborar?** [Entre em contato!](mailto:contato@mentechdigital)
+
+</div>
