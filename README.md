@@ -183,8 +183,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por arquitetar e construir soluç
 
 ---
 
----
-
 <div align="center">
 
 [![Visite meu site](https://img.shields.io/badge/🌐_Visite_meu_portfólio-00ff88?style=for-the-badge)](https://mentech.digital)
