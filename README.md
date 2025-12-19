@@ -1,6 +1,3 @@
-Aqui está o README completo em uma única página, formatado para copiar e colar diretamente:
-
-```markdown
 # 👩🏻‍💻 Dylan Menades
 **Desenvolvedor FullStack | Criador de Conteúdo Tech**
 
@@ -10,26 +7,6 @@ Aqui está o README completo em uma única página, formatado para copiar e cola
 ## Transformando ideias em soluções digitais inovadoras
 
 </div>
-
-## 🚀 **Sobre Mim**
-
-```javascript
-const dylan = {
-  nome: "Dylan Menades",
-  cargo: "Desenvolvedor FullStack",
-  foco: ["Aplicações Web", "Sistemas Escaláveis", "Experiência do Usuário"],
-  paixoes: ["Tecnologia", "Ensino", "Open Source"],
-  missao: "Criar soluções que impactam positivamente a vida das pessoas",
-  canalYouTube: "@Mentech Digital"
-};
-```
-
-Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais modernas, eficientes e escaláveis. Com experiência tanto no front-end quanto back-end, desenvolvo aplicações completas - desde a interface do usuário até a lógica de servidor e banco de dados.
-
-**🎯 Meu objetivo:** Transformar problemas complexos em soluções elegantes e funcionais, sempre aplicando as melhores práticas de desenvolvimento.
-
-**📚 Como educador:** Divulgo conhecimento através do canal **Mentech Digital** no YouTube, onde ensino desenvolvimento web de forma prática e acessível.
-
 ---
 
 ## 📊 **GitHub Analytics**
