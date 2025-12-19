@@ -15,28 +15,6 @@
 
 </div>
 
-## ✨ **Destaques Pessoais**
-
-```yaml
-desenvolvedor:
-  nome: "Dylan Menades"
-  foco: "Arquitetura Full Stack & Educação Tech"
-  experiência: "7+ anos"
-  filosofia: "Código limpo, documentação clara, impacto real"
-
-atual:
-  - Construindo plataformas escaláveis com Next.js 14
-  - Implementando arquiteturas de microsserviços
-  - Ensinando desenvolvimento web no YouTube
-  - Contribuindo para projetos open source
-
-especialidades:
-  frontend: ["React/Next.js", "TypeScript", "Tailwind"]
-  backend: ["Node.js/NestJS", "Python/FastAPI", "PHP/Laravel"]
-  infra: ["AWS", "Docker", "CI/CD", "PostgreSQL"]
-  soft_skills: ["Mentoria", "Documentação", "Arquitetura de Sistemas"]
-```
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
