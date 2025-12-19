@@ -153,7 +153,5 @@
 
 <img src="https://github.com/mentech93/mentech93/blob/main/assets/footer-wave.svg?raw=true" alt="Footer Wave" width="100%">
 
-**Última atualização:** 🕐 {{CURRENT_TIMESTAMP}}
-
 </div>
 ```
