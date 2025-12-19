@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Dylan Menades
+# 👨‍💻 Dylan Menades
 
 **`Desenvolvedor FullStack | Criador de Conteúdo Tech`**
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## 🚀 **Sobre Mim**
+## **Sobre Mim**
 Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais modernas, eficientes e escaláveis. Com experiência tanto no front-end quanto back-end, desenvolvo aplicações completas - desde a interface do usuário até a lógica de servidor e banco de dados.
 
 🎯 **Meu objetivo:** Transformar problemas complexos em soluções elegantes e funcionais, sempre aplicando as melhores práticas de desenvolvimento.
