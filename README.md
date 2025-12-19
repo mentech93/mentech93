@@ -11,18 +11,6 @@
 </div>
 
 ## 🚀 **Sobre Mim**
-
-```javascript
-const dylan = {
-  nome: "Dylan Menades",
-  cargo: "Desenvolvedor FullStack",
-  foco: ["Aplicações Web", "Sistemas Escaláveis", "Experiência do Usuário"],
-  paixoes: ["Tecnologia", "Ensino", "Open Source"],
-  missao: "Criar soluções que impactam positivamente a vida das pessoas",
-  canalYouTube: "@Mentech Digital"
-};
-```
-
 Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais modernas, eficientes e escaláveis. Com experiência tanto no front-end quanto back-end, desenvolvo aplicações completas - desde a interface do usuário até a lógica de servidor e banco de dados.
 
 🎯 **Meu objetivo:** Transformar problemas complexos em soluções elegantes e funcionais, sempre aplicando as melhores práticas de desenvolvimento.
