@@ -15,7 +15,7 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 🎯 **Meu objetivo:** Transformar problemas complexos em soluções elegantes e funcionais, sempre aplicando as melhores práticas de desenvolvimento.
 
-📚 **Como educador:** Divulgo conhecimento através do canal **[Mentech Digital]<a href="https://www.youtube.com/c/mentecch?sub_confirmation=1">** no YouTube, onde ensino desenvolvimento web de forma prática e acessível.
+📚 **Como educador:** Divulgo conhecimento através do canal **[Mentech Digital](https://www.youtube.com/c/mentecch?sub_confirmation=1)** no YouTube, onde ensino desenvolvimento web de forma prática e acessível.
 
 ---
 
