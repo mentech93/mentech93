@@ -164,6 +164,6 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 ⭐ **Se encontrar algo interessante, não hesite em dar uma estrela!**
 
-📧 **Interessado em colaborar?** [Entre em contato!](mailto:contato@mentechdigital)
+📧 **Interessado em colaborar?** [Entre em contato!](mailto:mentechdigital@gmail.com)
 
 </div>
