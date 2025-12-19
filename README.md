@@ -20,51 +20,6 @@
 
 <div align="center">
 
-```rust
-struct TechArchitect {
-    name: String::from("Dylan Menades"),
-    title: String::from("Principal Solutions Architect & Tech Educator"),
-    
-    experience: Experience {
-        years: 9,
-        projects_delivered: 48,
-        systems_scaled_to: "500k+ users",
-        team_size_led: 15,
-        uptime_maintained: 99.99,
-    },
-    
-    specialties: vec![
-        Specialization::MicroservicesArchitecture,
-        Specialization::CloudNativeSolutions,
-        Specialization::PerformanceEngineering,
-        Specialization::TechnicalLeadership,
-        Specialization::DeveloperEcosystems,
-        Specialization::AIMLOps,
-    ],
-    
-    current_initiatives: vec![
-        Initiative {
-            name: "Enterprise AI Platform",
-            stage: Stage::Production,
-            tech_stack: vec!["Next.js", "FastAPI", "PostgreSQL", "Redis", "AWS"],
-            impact: "15+ enterprise clients",
-        },
-        Initiative {
-            name: "Developer Education Platform",
-            stage: Stage::Growth,
-            tech_stack: vec!["React", "Node.js", "MongoDB", "Docker", "K8s"],
-            impact: "25k+ developers educated",
-        },
-    ],
-    
-    philosophy: String::from(
-        "The most elegant solutions are born from deep understanding \
-        of both technology and human needs. We don't just write code—\
-        we architect experiences, engineer trust, and build legacies."
-    ),
-}
-```
-
 </div>
 
 ## 📊 **Performance Intelligence Hub**
