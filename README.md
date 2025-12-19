@@ -177,31 +177,6 @@ especialidades:
 
 </div>
 
-## 🎯 **Metas & Roadmap 2024**
-
-### **🚀 Técnicas**
-- [x] Dominar Next.js 14 App Router
-- [ ] Lançar curso completo de Arquitetura Microserviços
-- [ ] Contribuir para 3 projetos open source relevantes
-- [ ] Obter certificação AWS Solutions Architect
-- [ ] Implementar sistema de monitoramento distribuído
-
-### **📈 Crescimento de Conteúdo**
-- [ ] Atingir 15k inscritos no YouTube
-- [ ] Publicar 24 artigos técnicos aprofundados
-- [ ] Criar série sobre Padrões de Arquitetura
-- [ ] Lançar ebook sobre Clean Code em português
-- [ ] Realizar 4 lives de pair programming
-
-### **🌐 Impacto na Comunidade**
-- [ ] Mentoriar 10 desenvolvedores iniciantes
-- [ ] Organizar workshop gratuito sobre TypeScript
-- [ ] Criar projeto open source para educação tech
-- [ ] Participar como palestrante em 2 eventos
-- [ ] Traduzir documentação técnica relevante
-
----
-
 <div align="center">
 
 ## 💡 **Filosofia de Trabalho**
