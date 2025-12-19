@@ -174,11 +174,6 @@
 
 **📧 Vamos conversar:** [contato@mentech.digital](mailto:contato@mentech.digital)
 
----
-
-*📅 Última atualização: {{date}}*  
-*⚡ Atualizado dinamicamente com GitHub Actions*
-
 </div>
 
 ---
