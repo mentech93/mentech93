@@ -183,32 +183,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por arquitetar e construir soluç
 
 ---
 
-## 🎯 **Metas para 2024**
-
-- [ ] Lançar 3 projetos open source completos
-- [ ] Atingir 10k inscritos no YouTube
-- [ ] Escrever 12 artigos técnicos no blog
-- [ ] Contribuir para 5 projetos open source
-- [ ] Dominar arquitetura de microsserviços
-
----
-
-### 📌 **Destaques do GitHub**
-
-```yaml
-nome: Dylan Menades
-especialidade: Full Stack Development
-foco_atual:
-  - Next.js 14 com App Router
-  - Arquitetura de microsserviços
-  - Performance e SEO
-  - Educação tech através do YouTube
-disponível_para:
-  - Colaborações open source
-  - Projetos inovadores
-  - Mentoria técnica
-```
-
 ---
 
 <div align="center">
