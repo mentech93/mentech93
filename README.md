@@ -13,19 +13,6 @@ Vou fornecer o código **DIRETAMENTE** sem nenhuma explicação adicional. Copie
 
 </div>
 
-## 🚀 **Sobre Mim**
-
-```javascript
-const dylan = {
-  nome: "Dylan Menades",
-  cargo: "Desenvolvedor FullStack",
-  foco: ["Aplicações Web", "Sistemas Escaláveis", "Experiência do Usuário"],
-  paixoes: ["Tecnologia", "Ensino", "Open Source"],
-  missao: "Criar soluções que impactam positivamente a vida das pessoas",
-  canalYouTube: "@Mentech Digital"
-};
-```
-
 Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais modernas, eficientes e escaláveis. Com experiência tanto no front-end quanto back-end, desenvolvo aplicações completas - desde a interface do usuário até a lógica de servidor e banco de dados.
 
 **🎯 Meu objetivo:** Transformar problemas complexos em soluções elegantes e funcionais, sempre aplicando as melhores práticas de desenvolvimento.
@@ -189,58 +176,3 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 ### 📧 Interessado em colaborar? Entre em contato!
 
 <img src="https://github.com/mentech93/mentech93/blob/main/assets/footer-wave.svg?raw=true" alt="Footer Wave" width="100%">
-
-**Última atualização:** 🕐 {{CURRENT_TIMESTAMP}}
-
-</div>
-
-<style>
-.markdown-body {
-  background: linear-gradient(135deg, #0d1117 0%, #212066 100%);
-  color: #ffffff;
-  padding: 2rem;
-  border-radius: 10px;
-}
-.markdown-body a {
-  color: #00ff88 !important;
-  text-decoration: none;
-  transition: all 0.3s ease;
-}
-.markdown-body a:hover {
-  color: #ffffff !important;
-  text-decoration: underline;
-}
-.markdown-body h1, .markdown-body h2, .markdown-body h3 {
-  color: #ffffff !important;
-  border-bottom: 2px solid #00ff88 !important;
-  padding-bottom: 10px;
-  margin-top: 2rem;
-}
-.markdown-body hr {
-  background: linear-gradient(90deg, transparent, #00ff88, transparent);
-  height: 2px;
-  border: none;
-  margin: 2rem 0;
-}
-.markdown-body img {
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 255, 136, 0.2);
-}
-.markdown-body table {
-  background: rgba(255, 255, 255, 0.05);
-  border-radius: 8px;
-  overflow: hidden;
-}
-.markdown-body table th {
-  background: rgba(0, 255, 136, 0.2);
-  color: #00ff88;
-  font-weight: bold;
-}
-.markdown-body table td {
-  border-color: rgba(255, 255, 255, 0.1);
-}
-</style>
-```
-3. **Use um editor online** como https://stackedit.io/ para testar primeiro
-
-O código acima está **100% correto** e funcionará se você copiar **apenas o conteúdo entre os backticks**.
