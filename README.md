@@ -1,6 +1,3 @@
-Vejo os problemas! O README não está renderizando as imagens e tabelas corretamente. Vou fazer um ajuste completo para garantir que tudo funcione perfeitamente:
-
-```markdown
 # 👩🏻‍💻 Dylan Menades
 **Desenvolvedor FullStack | Criador de Conteúdo Tech**
 
