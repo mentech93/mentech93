@@ -19,38 +19,6 @@
 
 <div align="center">
 
-```typescript
-const techProfile = {
-  name: "Dylan Menades",
-  title: "Arquiteto de Soluções Full Stack & Tech Educator",
-  experience: "8+ anos em arquitetura de sistemas complexos",
-  philosophy: "Código é poesia, arquitetura é arte, impacto é realidade",
-  
-  metrics: {
-    projectsInProduction: 12,
-    usersImpacted: "50k+",
-    uptime: "99.95%",
-    educationalContent: "200+ horas",
-    communityReach: "25k+ developers"
-  },
-  
-  coreCompetencies: [
-    "Microservices Architecture",
-    "Cloud Native Solutions",
-    "Performance Optimization", 
-    "Technical Leadership",
-    "Developer Education",
-    "Open Source Advocacy"
-  ],
-  
-  currentFocus: {
-    primary: "Building next-gen SaaS platforms with AI integration",
-    secondary: "Democratizing tech education through content creation",
-    community: "Mentoring the next generation of developers"
-  }
-};
-```
-
 </div>
 
 ## 📊 **GitHub Intelligence Dashboard**
