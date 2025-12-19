@@ -1,7 +1,3 @@
-Perfeito! Vou adicionar a seção de artigos no local mais lógico do seu README, logo após a seção **"🎥 Conteúdo & Educação"** (onde você fala do YouTube) e antes da seção **"🤝 Vamos Conectar!"**.
-
-Aqui está seu README atualizado com a nova seção de artigos incluída:
-
 # 👩🏻‍💻 Dylan Menades
 
 **`Desenvolvedor FullStack | Criador de Conteúdo Tech`**
@@ -171,15 +167,3 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 📧 **Interessado em colaborar?** [Entre em contato!](mailto:contato@mentechdigital)
 
 </div>
-
----
-
-### **Próximos Passos:**
-
-1. **Copie e cole este código** no seu arquivo `README.md`
-2. **Não esqueça de configurar o feed RSS** no arquivo `.github/workflows/update.yml` que você criou
-3. **Execute o workflow manualmente** na aba Actions para testar
-
-Quando você executar o workflow, os marcadores `<!-- BLOG-POST-LIST:START -->` e `<!-- BLOG-POST-LIST:END -->` serão automaticamente substituídos pela lista real dos seus últimos artigos do blog!
-
-**Dica:** Você pode ajustar o emoji 📝 na seção de artigos para outro que prefira, como 📚 ou ✍️. O importante é manter os marcadores exatamente como estão.
