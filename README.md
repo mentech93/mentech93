@@ -113,11 +113,6 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 ## 📈 **Atividades Recentes**
 
-<!-- START_SECTION:activity -->
-<!-- Aqui vai o conteúdo dinâmico das atividades -->
-<!-- Você pode usar GitHub Actions para atualizar automaticamente -->
-<!-- END_SECTION:activity -->
-
 <div align="center">
   
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mentech93&theme=react-dark&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true)
@@ -178,70 +173,86 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 </div>
 
----
+## 🎨 **Personalização do Tema**
 
-<div align="center">
+Para aplicar o tema azul (#212066) em todo o perfil do GitHub, crie um arquivo `.github/README.md` com o seguinte conteúdo CSS:
 
-![Footer](https://github.com/mentech93/mentech93/blob/main/assets/footer-wave.svg?raw=true)
+```css
+/* Adicione ao seu perfil personalizado */
+body {
+  background-color: #0d1117;
+}
 
-**Última atualização:** 🕐 {{CURRENT_TIMESTAMP}}
+.markdown-body {
+  background: linear-gradient(135deg, #0d1117 0%, #212066 100%);
+  color: #ffffff;
+  padding: 2rem;
+  border-radius: 10px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
-</div>
+.markdown-body a {
+  color: #00ff88 !important;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
 
-<style>
-  .markdown-body {
-    background: linear-gradient(135deg, #0d1117 0%, #212066 100%);
-    color: #ffffff;
-    padding: 2rem;
-    border-radius: 10px;
-  }
-  
-  .markdown-body a {
-    color: #00ff88 !important;
-    text-decoration: none;
-    transition: all 0.3s ease;
-  }
-  
-  .markdown-body a:hover {
-    color: #ffffff !important;
-    text-decoration: underline;
-  }
-  
-  .markdown-body h1, 
-  .markdown-body h2, 
-  .markdown-body h3 {
-    color: #ffffff !important;
-    border-bottom: 2px solid #00ff88 !important;
-    padding-bottom: 10px;
-    margin-top: 2rem;
-  }
-  
-  .markdown-body hr {
-    background: linear-gradient(90deg, transparent, #00ff88, transparent);
-    height: 2px;
-    border: none;
-    margin: 2rem 0;
-  }
-  
-  .markdown-body img {
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 255, 136, 0.2);
-  }
-  
-  .markdown-body table {
-    background: rgba(255, 255, 255, 0.05);
-    border-radius: 8px;
-    overflow: hidden;
-  }
-  
-  .markdown-body table th {
-    background: rgba(0, 255, 136, 0.2);
-    color: #00ff88;
-    font-weight: bold;
-  }
-  
-  .markdown-body table td {
-    border-color: rgba(255, 255, 255, 0.1);
-  }
-</style>
+.markdown-body a:hover {
+  color: #ffffff !important;
+  text-decoration: underline;
+}
+
+.markdown-body h1, 
+.markdown-body h2, 
+.markdown-body h3 {
+  color: #ffffff !important;
+  border-bottom: 2px solid #00ff88 !important;
+  padding-bottom: 10px;
+  margin-top: 2rem;
+}
+
+.markdown-body hr {
+  background: linear-gradient(90deg, transparent, #00ff88, transparent);
+  height: 2px;
+  border: none;
+  margin: 2rem 0;
+}
+
+.markdown-body img {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 255, 136, 0.2);
+}
+
+.markdown-body table {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  overflow: hidden;
+  border-collapse: collapse;
+}
+
+.markdown-body table th {
+  background: rgba(0, 255, 136, 0.2);
+  color: #00ff88;
+  font-weight: bold;
+  padding: 12px;
+}
+
+.markdown-body table td {
+  border-color: rgba(255, 255, 255, 0.1);
+  padding: 12px;
+}
+
+.markdown-body code {
+  background: rgba(0, 255, 136, 0.1);
+  color: #00ff88;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.markdown-body pre {
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(0, 255, 136, 0.2);
+  border-radius: 8px;
+}
 ```
