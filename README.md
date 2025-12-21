@@ -124,13 +124,6 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 ---
 
-## 📝 **Últimos Artigos**
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 **Vamos Conectar!**
 
 <div align="center">
