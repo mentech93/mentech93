@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## 📺 **Conteúdo & Educação**
 
 <div align="center">
@@ -24,8 +22,6 @@
 
 </div>
 
----
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
@@ -35,8 +31,6 @@
 | ![Estatísticas](https://github-readme-stats.vercel.app/api?username=mentech93&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=fff&hide_border=true&include_all_commits=true&count_private=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mentech93&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=fff&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mentech93&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=fff&hide_border=true) |
 
 </div>
-
----
 
 ## 🏆 **Projetos Populares**
 
