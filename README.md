@@ -1,300 +1,179 @@
-# 🎩 **Dylan Menades**  
-**Microsoft MVP | GitHub Star | Engenheiro de Software Sênior**  
-*Transformando código em legado e desenvolvedores em arquitetos*
 
----
+
+# 👨‍💻 Dylan Menades | Mentech Digital
+
+**`Desenvolvedor FullStack | Criador de Conteúdo Tech | Mentor`**
 
 <div align="center">
 
-![Microsoft MVP Badge](https://img.shields.io/badge/Microsoft%20MVP-2021--2024-7322d1?style=for-the-badge&logo=microsoft&logoColor=white)
-![GitHub Star](https://img.shields.io/badge/GitHub%20Star-⭐-000?style=for-the-badge&logo=github&logoColor=white)
-![RD Profile](https://img.shields.io/badge/Microsoft%20RD-019884?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**"O código que sobrevive ao tempo é aquele que educa enquanto funciona"**
+![Banner Tech](https://github.com/mentech93/mentech93/blob/main/assets/banner-tech.gif?raw=true)
+*Transformando ideias em soluções digitais inovadoras*
 
 </div>
 
----
-
-## 🏆 **Reconhecimentos & Contribuições**
+## 📺 **Conteúdo & Educação**
 
 <div align="center">
 
-| Premiação | Ano | Área |
-|:---|:---|:---|
-| **Microsoft MVP** | 2021-2024 | Developer Technologies |
-| **GitHub Star** | 2022-2023 | Open Source & Community |
-| **Microsoft RD** | 2023-Presente | Azure & Cloud Native |
-| **AWS Community Builder** | 2023 | Serverless & Architecture |
-
-</div>
-
----
-
-## 🚀 **Projetos que Moldaram o Ecossistema**
-
-### **🎯 Equinox Project (Inspiração)**
-*"Assim como o Equinox do Eduardo, acredito em arquiteturas completas"*
-
-```csharp
-// Filosofia Equinox adaptada
-public class CleanArchitectureTemplate
-{
-    public Domain Layer { get; }      // Regras de negócio puras
-    public Application Layer { get; } // Casos de uso
-    public Infrastructure Layer { get; } // Implementações concretas
-    public Presentation Layer { get; } // Interfaces
-}
-```
-
-### **📦 Meus Projetos de Referência**
-<div align="center">
-
-| Projeto | Stars | Downloads | Impacto |
-|:---|:---:|:---:|:---|
-| **🔹 DevStore Template** | ![](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) | 50K+ | Template de e-commerce enterprise |
-| **🔹 NetDevPack Insp.** | ![](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) | 30K+ | DevPack para Node.js/Python |
-| **🔹 Clean DDD Boilerplate** | ![](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) | 25K+ | Implementação DDD completa |
-
-</div>
-
----
-
-## 🎓 **Educação em Escala: Mentech Digital**
-
-<div align="center">
-
-[![YouTube Channel](https://img.shields.io/badge/🎥_Mentech_Digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mentecch?sub_confirmation=1)
+### 🎥 **Mentech Digital - YouTube**
+[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mentecch?sub_confirmation=1)
 [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=INSCRITOS&color=FF0000)](https://youtube.com/@Mentecch?sub_confirmation=1)
 [![Views](https://img.shields.io/youtube/channel/views/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=VISUALIZAÇÕES&color=FF0000)](https://www.youtube.com/@Mentecch)
 
+**🎯 Conteúdo:** Tutoriais de programação, projetos práticos, dicas de carreira tech, desenvolvimento web/mobile
+
 </div>
 
-### **📚 Cursos & Formações**
-- **🚀 FullStack Pro** - 500+ alunos formados
-- **🏗️ Arquitetura .NET Enterprise** - Parceria Microsoft
-- **☁️ Azure na Prática** - Certificações preparatórias
-- **🔧 Clean Code & Refactoring** - Workshops corporativos
-
----
-
-## 🛠️ **Stack Corporativa & Enterprise**
-
-### **📊 Microsoft Ecosystem Mastery**
-```yaml
-frontend:
-  - Blazor WebAssembly (Expert)
-  - ASP.NET Core MVC (15+ years)
-  - MAUI / Xamarin (Mobile)
-  
-backend:
-  - .NET 8 / C# 11 (Specialist)
-  - Entity Framework Core
-  - Azure Functions / Durable Entities
-  
-azure:
-  - Azure Kubernetes Service (AKS)
-  - Azure DevOps CI/CD
-  - Cosmos DB & SQL Server
-  
-architecture:
-  - Clean Architecture
-  - DDD & CQRS
-  - Microservices @Scale
-```
-
-### **🏆 Certificações Microsoft**
-- **Azure Solutions Architect Expert**
-- **DevOps Engineer Expert**  
-- **.NET Enterprise Developer**
-- **Security, Compliance, Identity**
-
----
-
-## 📊 **GitHub Impact Metrics**
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mentech93&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentech93&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
-
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mentech93&theme=github-dark&bg_color=0d1117&hide_border=true&area=true)
+| **Estatísticas** | **Linguagens Mais Usadas** | **Contribuições** |
+|:---:|:---:|:---:|
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=mentech93&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=fff&hide_border=true&include_all_commits=true&count_private=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mentech93&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=fff&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mentech93&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=fff&hide_border=true) |
 
 </div>
 
----
-
-## 🎤 **Palestras & Eventos**
-
-### **Principais Conferências**
-| Evento | Ano | Tema |
-|:---|:---|:---|
-| **Microsoft Build** | 2023 | "Clean Architecture no Mundo Real" |
-| **DevOpsDays Brasil** | 2022, 2023 | "CI/CD para Enterprise" |
-| **QCon São Paulo** | 2022 | "Microservices After Hype" |
-| **Azure Community Day** | 2021-2023 | Keynote Speaker |
-
-### **🎙️ Próximos Eventos**
-- **MVP Summit 2024** - Redmond, WA
-- **.NET Conf 2024** - Virtual & São Paulo
-- **Google Cloud Next '24** - Community Track
-
----
-
-## 🤝 **Comunidade & Mentoria**
-
-### **Programas que Lidero**
-```yaml
-mentorship:
-  microsoft_mvp_program:
-    role: Technical Mentor
-    mentees: 12 developers
-    focus: Cloud & .NET Career Path
-  
-  github_stars:
-    role: Community Lead BR
-    projects: 5 OSS initiatives
-    focus: Open Source Sustainability
-  
-  local_community:
-    name: "Devs .NET SP"
-    members: 1500+
-    meetings: Monthly workshops
-```
-
-### **📈 Estatísticas de Mentoria**
-- **150+** desenvolvedores mentorados diretamente
-- **25** promoções para Senior/Lead alcançadas
-- **8** startups técnicas fundadas por mentees
-- **100%** dos mentores criam novos mentores
-
----
-
-## 📚 **Produção Técnica**
-
-### **Livros & E-books**
-1. **"Clean Code em .NET: Além do Básico"** - 2023
-2. **"Azure para Startups: Escalando com Custo Zero"** - 2022  
-3. **"DDD na Prática: Do Diagrama ao Deploy"** - 2021
-4. **"Legacy to Cloud: Uma Jornada de 10 Anos"** - 2020
-
-### **Artigos Destacados**
-- 📰 **Microsoft DevBlogs**: "Kubernetes no Dia a Dia do .NET Dev"
-- 📰 **InfoQ Brasil**: "Por que DDD Voltou (e Dessa Vez Ficou)"
-- 📰 **Medium Top Writer**: 50+ artigos, 500K+ leituras
-
----
-
-## 🏢 **Consultoria Empresarial**
-
-### **Clientes Notáveis**
-```bash
-🏦 Banco Itaú        → Modernização de Core Banking
-🛍️ Magazine Luiza    → Arquitetura de E-commerce
-🏥 Hospital Sírio    → Sistemas de Saúde em Azure
-🚗 Localiza Hertz    → Microserviços de Locação
-```
-
-### **Metodologia Proprietária**
-```mermaid
-graph TD
-    A[Assessment 360°] --> B[Proof of Concept]
-    B --> C[Team Up-skilling]
-    C --> D[Implementation]
-    D --> E[Knowledge Transfer]
-```
-
----
-
-## 🎯 **Filosofia de Trabalho**
-
-> **"Inspirado no Eduardo Pires e outros gigantes:**
-> 
-> 1. **Código é documentação** - Se precisa de manual, está errado
-> 2. **Comunidade é legado** - O que você planta, colhe em inovação  
-> 3. **Simplicidade é sofisticação** - O complexo deve ser invisível
-> 4. **Ensine sempre** - Cada PR, cada commit, é uma aula"
-
----
-
-## 📞 **Contato Profissional**
+## 🏆 **Projetos Populares**
 
 <div align="center">
 
-[![MVP Badge](https://img.shields.io/badge/MVP_Profile-Request-7322d1?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5000577)
-[![RD Badge](https://img.shields.io/badge/RD_Profile-019884?style=for-the-badge&logo=microsoft&logoColor=white)](https://rd.microsoft.com/pt-br/mentech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Strategic_Connections-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mentech)
-[![Email](https://img.shields.io/badge/Email-Enterprise_Inquiries-00A67E?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:comercial@mentech.digital)
+### ⭐ **Destaques da Comunidade**
+| Projeto | Descrição | Tecnologias | Stars |
+|:---|:---|:---|:---:|
+| **[🔗 Sistema Web Completo](https://github.com/mentech93)** | Dashboard com autenticação e relatórios | `React` `Node.js` `MongoDB` | ![Stars](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) |
+| **[🔗 API REST Avançada](https://github.com/mentech93)** | Microserviços com Docker e Kubernetes | `Express` `JWT` `PostgreSQL` `Docker` | ![Stars](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) |
+| **[🔗 E-commerce Moderno](https://github.com/mentech93)** | Loja online com pagamento integrado | `Next.js` `Stripe` `Tailwind` | ![Stars](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) |
+| **[🔗 App Mobile React Native](https://github.com/mentech93)** | Aplicativo com notificações push | `React Native` `Firebase` `Redux` | ![Stars](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) |
 
 </div>
 
----
+## 🛠️ **Stack Tecnológica**
 
-## 🌟 **Open Source Philosophy**
+### **🌐 Frontend & UI/UX**
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-```csharp
-// Como o Eduardo faz com NetDevPack:
-public class OpenSourceProject 
-{
-    public bool HasValue { get; } = true;
-    public bool IsMaintained { get; } = true;
-    public bool HasDocumentation { get; } = true;
-    public bool WelcomesContributors { get; } = true;
-    
-    // O segredo não está no código, está na comunidade
-    public Community BuildCommunity() => new AwesomeCommunity();
-}
-```
+</div>
 
----
+### **⚙️ Backend & APIs**
+<div align="center">
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<details>
-<summary>📜 <strong>Para quem quer seguir este caminho...</strong></summary>
+</div>
 
-<br>
+### **🗄️ Banco de Dados**
+<div align="center">
+  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Querido colega desenvolvedor,**
+</div>
 
-Há 10 anos, via o Eduardo Pires criando o Equinox e pensava: "Como alguém consegue impactar tanto?"
+### ** DevOps & Ferramentas**
+<div align="center">
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Hoje entendo: **não é sobre código, é sobre pessoas.**
+</div>
 
-Os projetos do Eduardo sobrevivem não porque a tecnologia é boa (e é), mas porque:
-
-1. **Resolvem problemas reais** - Não são brinquedos tecnológicos
-2. **Educam enquanto funcionam** - Cada linha é uma lição
-3. **Cultivam comunidade** - O sucesso é coletivo
-4. **São sustentáveis** - Não dependem de uma pessoa
-
-Meu conselho? **Comece pequeno, pense grande, mantenha sempre.**
-
-Um template bem feito pode ensinar mais que um curso.
-Uma biblioteca simples pode resolver mais que um framework.
-Uma comunidade ativa vale mais que mil estrelas no GitHub.
-
-**Seja um Eduardo Pires da sua stack.**  
-O mundo precisa de mais arquitetos que ensinam.
-
-Com respeito,  
-*Dylan Menades*
-
-</details>
-
----
+## 📈 **Atividades & Contribuições**
 
 <div align="center">
 
-![Footer](https://img.shields.io/badge/🏆_Microsoft_MVP-7322d1?style=for-the-badge)
-![Footer](https://img.shields.io/badge/⭐_GitHub_Star-000?style=for-the-badge)  
-![Footer](https://img.shields.io/badge/🎓_Educator_by_Nature-00A67E?style=for-the-badge)
-![Footer](https://img.shields.io/badge/🚀_Still_Building-FF6B35?style=for-the-badge)
-
-**"Primeiro eles te ignoram, depois riem de você, depois lutam contra você, depois você vira MVP"**  
-*— Adaptação de Gandhi para desenvolvedores*
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mentech93&theme=react-dark&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub)
 
 </div>
 
----
+## 🎯 **Sobre Mim**
 
-**Perfil mantido com o mesmo cuidado que mantenho meus projetos enterprise**  
-**Última atualização:** Dezembro 2024 | **Próxima revisão:** Sempre que a comunidade precisar
+Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais modernas, eficientes e escaláveis. Com experiência tanto no front-end quanto back-end, desenvolvo aplicações completas - desde a interface do usuário até a lógica de servidor e banco de dados.
+
+**Minha missão:**
+- 🎯 Transformar problemas complexos em soluções elegantes e funcionais
+- 📚 Compartilhar conhecimento através do canal **Mentech Digital**
+- 🚀 Desenvolver aplicações que fazem a diferença
+- 👨‍🏫 Mentoriar novos desenvolvedores na comunidade tech
+
+## 🤝 **Conecte-se Comigo**
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-Mentech_Digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white&width=200)](https://www.youtube.com/@Mentecch?sub_confirmation=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan_Menades-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=200)](https://linkedin.com/in/mentech)
+[![GitHub](https://img.shields.io/badge/GitHub-mentech93-100000?style=for-the-badge&logo=github&logoColor=white&width=200)](https://github.com/mentech93)
+[![Instagram](https://img.shields.io/badge/Instagram-mentech.digital-E4405F?style=for-the-badge&logo=instagram&logoColor=white&width=200)](https://instagram.com/mentech.digital)
+[![Twitter](https://img.shields.io/badge/Twitter-mentechdigital-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&width=200)](https://twitter.com/mentechdigital)
+[![Email](https://img.shields.io/badge/Email-mentech93@gmail.com-00A67E?style=for-the-badge&logo=gmail&logoColor=white&width=200)](mailto:mentech93@gmail.com)
+
+</div>
+
+## 📊 **Estatísticas em Tempo Real**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mentech93&color=00ff88&style=for-the-badge&label=VISITAS+AO+PERFIL)
+![Followers](https://img.shields.io/github/followers/mentech93?color=00ff88&label=Seguidores&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/mentech93?color=00ff88&label=Estrelas&style=for-the-badge)
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=INSCRITOS+YOUTUBE&color=FF0000)
+
+</div>
+## 💡 **Influência & Inspiração**
+
+<div align="center">
+
+*Inspirado pelo trabalho de grandes desenvolvedores como Eduardo Pires*
+
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <a href="https://github.com/EduardoPires/EquinoxProject" target="_blank">
+    <img width="80px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/84bdee01-5b6b-42ec-b888-2d07a1ea9d45" alt="Equinox Project" title="Equinox Project" />
+  </a>
+  <a href="https://github.com/desenvolvedor-io/dev-store" target="_blank">
+    <img width="80px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/eda9b7c2-eb91-4264-8f18-fcc831894a95" alt="Dev Store" title="Dev Store" />
+  </a>
+  <a href="https://github.com/NetDevPack/NetDevPack" target="_blank">
+    <img width="80px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/e0743a7b-3ae0-4335-9e08-076e03b110f9" alt="NetDevPack" title="NetDevPack" />
+  </a>
+</div>
+
+</div>
+
+<div align="center">
+
+### ✨ **"Código é poesia, e cada linha conta uma história de inovação"**
+
+⭐ **Se encontrar algo interessante, não hesite em dar uma estrela nos repositórios!**
+
+🎥 **Inscreva-se no canal:** [youtube.com/@Mentecch](https://www.youtube.com/@Mentecch?sub_confirmation=1)
+
+🚀 **Pronto para o próximo projeto?** Vamos conversar!
+
+</div>
+
+<div align="center">
+
+*"A tecnologia é melhor quando une as pessoas" - Matt Mullenweg*
+
+</div>
