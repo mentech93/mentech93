@@ -46,8 +46,6 @@
 
 </div>
 
----
-
 ## 🛠️ **Stack Tecnológica**
 
 ### **🌐 Frontend & UI/UX**
@@ -99,8 +97,6 @@
 
 </div>
 
----
-
 ## 📈 **Atividades & Contribuições**
 
 <div align="center">
@@ -108,8 +104,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mentech93&theme=react-dark&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub)
 
 </div>
-
----
 
 ## 🎯 **Sobre Mim**
 
@@ -120,8 +114,6 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 - 📚 Compartilhar conhecimento através do canal **Mentech Digital**
 - 🚀 Desenvolver aplicações que fazem a diferença
 - 👨‍🏫 Mentoriar novos desenvolvedores na comunidade tech
-
----
 
 ## 🤝 **Conecte-se Comigo**
 
@@ -136,8 +128,6 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 </div>
 
----
-
 ## 📊 **Estatísticas em Tempo Real**
 
 <div align="center">
@@ -148,9 +138,6 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=INSCRITOS+YOUTUBE&color=FF0000)
 
 </div>
-
----
-
 ## 💡 **Influência & Inspiração**
 
 <div align="center">
@@ -171,8 +158,6 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 </div>
 
----
-
 <div align="center">
 
 ### ✨ **"Código é poesia, e cada linha conta uma história de inovação"**
@@ -184,8 +169,6 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 🚀 **Pronto para o próximo projeto?** Vamos conversar!
 
 </div>
-
----
 
 <div align="center">
 
