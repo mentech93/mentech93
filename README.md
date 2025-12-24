@@ -9,13 +9,7 @@
 *Transformando ideias em soluções digitais inovadoras*
 
 </div>
-
-## 🚀 **Sobre Mim**
-Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais modernas, eficientes e escaláveis. Com experiência tanto no front-end quanto back-end, desenvolvo aplicações completas - desde a interface do usuário até a lógica de servidor e banco de dados.
-
-🎯 **Meu objetivo:** Transformar problemas complexos em soluções elegantes e funcionais, sempre aplicando as melhores práticas de desenvolvimento.
-
-📚 **Como educador:** Divulgo conhecimento através do canal **[Mentech Digital](https://www.youtube.com/@Mentecch)** no YouTube, onde ensino desenvolvimento web de forma prática e acessível.
+ Divulgo conhecimento através do canal **[Mentech Digital](https://www.youtube.com/@Mentecch)** no YouTube, onde ensino desenvolvimento web de forma prática e acessível.
 
 ---
 
@@ -157,6 +151,6 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 ⭐ **Se encontrar algo interessante, não hesite em dar uma estrela!**
 
-📧 **Interessado em colaborar?** [Entre em contato!](mailto:contato@mentech.digital)
+📧 **Interessado em colaborar?** [Entre em contato!](mailto:contato@mentechdigital.com)
 
 </div>
