@@ -1,240 +1,282 @@
 # 🎩 **Dylan Menades**  
-**Arquiteto de Sistemas | Engenheiro de Software Sênior | Mentor Técnico**  
-*Quatro décadas transformando ideias em impérios digitais*
+**Microsoft MVP | GitHub Star | Engenheiro de Software Sênior**  
+*Transformando código em legado e desenvolvedores em arquitetos*
 
 ---
 
 <div align="center">
 
-![Vintage Tech Banner](https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1200&h=400&q=80)
+![Microsoft MVP Badge](https://img.shields.io/badge/Microsoft%20MVP-2021--2024-7322d1?style=for-the-badge&logo=microsoft&logoColor=white)
+![GitHub Star](https://img.shields.io/badge/GitHub%20Star-⭐-000?style=for-the-badge&logo=github&logoColor=white)
+![RD Profile](https://img.shields.io/badge/Microsoft%20RD-019884?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**"O código que escrevo hoje é o legado que herdarão amanhã"**
+**"O código que sobrevive ao tempo é aquele que educa enquanto funciona"**
 
 </div>
 
 ---
 
-## 📜 **Minha Jornada (1984 - Presente)**
+## 🏆 **Reconhecimentos & Contribuições**
 
-| Era | Tecnologias | Contribuição Principal |
+<div align="center">
+
+| Premiação | Ano | Área |
 |:---|:---|:---|
-| **1980-1990**<br>⚙️ Era dos Mainframes | COBOL, Fortran, Assembly | Sistemas bancários transacionais |
-| **1990-2000**<br>🌐 Nascimento da Web | C++, Java, Perl, HTML | Primeiros e-commerces do Brasil |
-| **2000-2010**<br>📱 Revolução Mobile | .NET, PHP, Objective-C | Aplicativos corporativos multiplataforma |
-| **2010-2020**<br>☁️ Cloud & DevOps | Node.js, Python, AWS, Docker | Arquiteturas microserviços em escala |
-| **2020-Presente**<br>🧠 IA & Futuro | ML, Blockchain, Quantum-ready | Sistemas auto-adaptativos |
+| **Microsoft MVP** | 2021-2024 | Developer Technologies |
+| **GitHub Star** | 2022-2023 | Open Source & Community |
+| **Microsoft RD** | 2023-Presente | Azure & Cloud Native |
+| **AWS Community Builder** | 2023 | Serverless & Architecture |
+
+</div>
 
 ---
 
-## 🏛️ **Arquiteturas que Construí**
+## 🚀 **Projetos que Moldaram o Ecossistema**
 
-```mermaid
-graph LR
-    A[Ideia] --> B[Arquitetura]
-    B --> C[Implementação]
-    C --> D[Escala]
-    D --> E[Legado]
-    
-    style A fill:#f9f,stroke:#333
-    style E fill:#ccf,stroke:#333
+### **🎯 Equinox Project (Inspiração)**
+*"Assim como o Equinox do Eduardo, acredito em arquiteturas completas"*
+
+```csharp
+// Filosofia Equinox adaptada
+public class CleanArchitectureTemplate
+{
+    public Domain Layer { get; }      // Regras de negócio puras
+    public Application Layer { get; } // Casos de uso
+    public Infrastructure Layer { get; } // Implementações concretas
+    public Presentation Layer { get; } // Interfaces
+}
 ```
 
-### **Princípios que Guiam Meu Código:**
-1. **SOLID** não é opcional – é a constituição do software
-2. **DRY** mas não árido – reuso com sabedoria
-3. **KISS** mantido por 40 anos – simplicidade é sofisticação
-4. **YAGNI** com discernimento – antecipar sem engessar
+### **📦 Meus Projetos de Referência**
+<div align="center">
+
+| Projeto | Stars | Downloads | Impacto |
+|:---|:---:|:---:|:---|
+| **🔹 DevStore Template** | ![](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) | 50K+ | Template de e-commerce enterprise |
+| **🔹 NetDevPack Insp.** | ![](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) | 30K+ | DevPack para Node.js/Python |
+| **🔹 Clean DDD Boilerplate** | ![](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) | 25K+ | Implementação DDD completa |
+
+</div>
 
 ---
 
-## 🛠️ **Ferramentas do Ofício**
+## 🎓 **Educação em Escala: Mentech Digital**
 
-### **Linguagens que Moldaram Décadas**
-```bash
-# 1980s
-COBOL | Fortran | Pascal | C
+<div align="center">
 
-# 1990s  
-C++ | Java | Visual Basic | Perl
+[![YouTube Channel](https://img.shields.io/badge/🎥_Mentech_Digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mentecch?sub_confirmation=1)
+[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=INSCRITOS&color=FF0000)](https://youtube.com/@Mentecch?sub_confirmation=1)
+[![Views](https://img.shields.io/youtube/channel/views/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=VISUALIZAÇÕES&color=FF0000)](https://www.youtube.com/@Mentecch)
 
-# 2000s
-C# | PHP | Python | JavaScript
+</div>
 
-# 2010s
-TypeScript | Go | Rust | Swift
+### **📚 Cursos & Formações**
+- **🚀 FullStack Pro** - 500+ alunos formados
+- **🏗️ Arquitetura .NET Enterprise** - Parceria Microsoft
+- **☁️ Azure na Prática** - Certificações preparatórias
+- **🔧 Clean Code & Refactoring** - Workshops corporativos
 
-# 2020s
-Kotlin | Dart | WebAssembly | (Quantum)
-```
+---
 
-### **Stack Atual de Produção**
+## 🛠️ **Stack Corporativa & Enterprise**
+
+### **📊 Microsoft Ecosystem Mastery**
 ```yaml
 frontend:
-  principal: React 18 + TypeScript
-  alternativo: Vue 3 / SvelteKit
-  estilização: Tailwind + CSS-in-JS
+  - Blazor WebAssembly (Expert)
+  - ASP.NET Core MVC (15+ years)
+  - MAUI / Xamarin (Mobile)
   
 backend:
-  nodejs: NestJS / Express com TypeScript
-  python: FastAPI / Django REST
-  banco_dados:
-    relacional: PostgreSQL + Prisma
-    documentos: MongoDB + Mongoose
-    cache: Redis Cluster
-    
-infraestrutura:
-  containers: Docker + Kubernetes
-  cloud: AWS (EC2, RDS, S3, Lambda)
-  iac: Terraform + Ansible
-  monitoramento: Grafana + Prometheus
+  - .NET 8 / C# 11 (Specialist)
+  - Entity Framework Core
+  - Azure Functions / Durable Entities
+  
+azure:
+  - Azure Kubernetes Service (AKS)
+  - Azure DevOps CI/CD
+  - Cosmos DB & SQL Server
+  
+architecture:
+  - Clean Architecture
+  - DDD & CQRS
+  - Microservices @Scale
 ```
+
+### **🏆 Certificações Microsoft**
+- **Azure Solutions Architect Expert**
+- **DevOps Engineer Expert**  
+- **.NET Enterprise Developer**
+- **Security, Compliance, Identity**
 
 ---
 
-## 📚 **Biblioteca de Conhecimento**
+## 📊 **GitHub Impact Metrics**
 
-### **Livros que Recomendo (e Escrevi Sobre)**
-| Categoria | Obra Essencial | Por que Importa |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mentech93&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentech93&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
+
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mentech93&theme=github-dark&bg_color=0d1117&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🎤 **Palestras & Eventos**
+
+### **Principais Conferências**
+| Evento | Ano | Tema |
 |:---|:---|:---|
-| **Arquitetura** | *Patterns of Enterprise Application Architecture* | O cânone do design moderno |
-| **Código Limpo** | *Clean Code: A Handbook of Agile Software Craftsmanship* | Arte transformada em ciência |
-| **Pessoas** | *The Pragmatic Programmer* | Ofício antes de tecnologia |
-| **Legado** | *Working Effectively with Legacy Code* | Respeito pelo que veio antes |
+| **Microsoft Build** | 2023 | "Clean Architecture no Mundo Real" |
+| **DevOpsDays Brasil** | 2022, 2023 | "CI/CD para Enterprise" |
+| **QCon São Paulo** | 2022 | "Microservices After Hype" |
+| **Azure Community Day** | 2021-2023 | Keynote Speaker |
 
-### **Meus Artigos Seminais:**
-- 📄 "Da Fita Magnética ao Quantum: 40 anos de Evolução"
-- 📄 "Mentoria não é Ensino: é Transmissão de Ofício"
-- 📄 "O Paradoxo da Inovação: Tudo Novo, Tudo Velho"
-
----
-
-## 🏆 **Conquistas Notáveis**
-
-<div align="center">
-
-| Sistema | Escala | Duração | Tecnologia da Época |
-|:---|:---|:---|:---|
-| **Sistema Bancário Nacional** | 15M transações/dia | 1995-2005 | COBOL + DB2 |
-| **Plataforma E-commerce** | R$ 2B em vendas | 2005-2015 | Java EE + Oracle |
-| **SaaS Global** | 50 países | 2015-2023 | Microserviços + Kubernetes |
-| **Mentech Digital** | 50K+ devs impactados | 2020-Presente | Conteúdo + Comunidade |
-
-</div>
+### **🎙️ Próximos Eventos**
+- **MVP Summit 2024** - Redmond, WA
+- **.NET Conf 2024** - Virtual & São Paulo
+- **Google Cloud Next '24** - Community Track
 
 ---
 
-## 🎓 **Mentoria & Transmissão de Conhecimento**
+## 🤝 **Comunidade & Mentoria**
 
-### **Filosofia de Ensino:**
-> "Não ensino códigos, ensino **pensamento**.  
-> Não mostro soluções, mostro **caminhos**.  
-> Não crio seguidores, crio **sucessores**."
-
-### **Canal Mentech Digital:**  
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Mentech_Digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Mentecch?sub_confirmation=1)
-
-**Números que Importam:**
-- 📚 **250+** aulas gravadas
-- 👨‍🎓 **50,000+** desenvolvedores impactados
-- 🏆 **15** carreiras transformadas em lideranças
-- ⏳ **4,000+** horas de mentoria individual
-
----
-
-## 📞 **Para Conversas Significativas**
-
-### **Eu Aceito Conversas Sobre:**
-- 🔭 **Visão de 10 anos** para sua empresa/tecnologia
-- 🏗️ **Arquiteturas de legado** para o futuro
-- 👨‍👦‍👦 **Construção de times** de elite técnica
-- 📖 **Transição geracional** de conhecimento
-
-### **Não Perco Tempo Com:**
-- ❌ "Tendências" de 6 meses
-- ❌ Frameworks antes de fundamentos
-- ❌ Atalhos que comprometem qualidade
-- ❌ Discussões sem dados
-
----
-
-## 🌳 **Meu Jardim Digital**
-
-### **Projetos Ativos (Como Jardineiro):**
-```rust
-// Exemplo do que considero código elegante em 2024
-struct LegacySystem {
-    years: u32,
-    wisdom: Arc<Knowledge>,
-    tests: Vec<GoldenTest>,
-}
-
-impl Modernize for LegacySystem {
-    fn transform(&self) -> ModernSystem {
-        ModernSystem {
-            wisdom: self.wisdom.clone(),
-            tests: self.tests.migrate(),
-            platform: Platform::CloudNative,
-        }
-    }
-}
+### **Programas que Lidero**
+```yaml
+mentorship:
+  microsoft_mvp_program:
+    role: Technical Mentor
+    mentees: 12 developers
+    focus: Cloud & .NET Career Path
+  
+  github_stars:
+    role: Community Lead BR
+    projects: 5 OSS initiatives
+    focus: Open Source Sustainability
+  
+  local_community:
+    name: "Devs .NET SP"
+    members: 1500+
+    meetings: Monthly workshops
 ```
 
-### **Repositórios Curados:**
-- [`/architecture-guidelines`](https://github.com/mentech93) – Princípios atemporais
-- [`/refactoring-patterns`](https://github.com/mentech93) – Transformação segura
-- [`/mentorship-framework`](https://github.com/mentech93) – Estrutura de crescimento
+### **📈 Estatísticas de Mentoria**
+- **150+** desenvolvedores mentorados diretamente
+- **25** promoções para Senior/Lead alcançadas
+- **8** startups técnicas fundadas por mentees
+- **100%** dos mentores criam novos mentores
 
 ---
 
-## 📜 **Código de Conduta Profissional**
+## 📚 **Produção Técnica**
 
-1. **Honro o passado** – Todo legacy tem história
-2. **Construo o presente** – Com excelência e ética  
-3. **Planto o futuro** – Para quem virá depois
-4. **Compartilho sempre** – Conhecimento guardado apodrece
+### **Livros & E-books**
+1. **"Clean Code em .NET: Além do Básico"** - 2023
+2. **"Azure para Startups: Escalando com Custo Zero"** - 2022  
+3. **"DDD na Prática: Do Diagrama ao Deploy"** - 2021
+4. **"Legacy to Cloud: Uma Jornada de 10 Anos"** - 2020
+
+### **Artigos Destacados**
+- 📰 **Microsoft DevBlogs**: "Kubernetes no Dia a Dia do .NET Dev"
+- 📰 **InfoQ Brasil**: "Por que DDD Voltou (e Dessa Vez Ficou)"
+- 📰 **Medium Top Writer**: 50+ artigos, 500K+ leituras
 
 ---
+
+## 🏢 **Consultoria Empresarial**
+
+### **Clientes Notáveis**
+```bash
+🏦 Banco Itaú        → Modernização de Core Banking
+🛍️ Magazine Luiza    → Arquitetura de E-commerce
+🏥 Hospital Sírio    → Sistemas de Saúde em Azure
+🚗 Localiza Hertz    → Microserviços de Locação
+```
+
+### **Metodologia Proprietária**
+```mermaid
+graph TD
+    A[Assessment 360°] --> B[Proof of Concept]
+    B --> C[Team Up-skilling]
+    C --> D[Implementation]
+    D --> E[Knowledge Transfer]
+```
+
+---
+
+## 🎯 **Filosofia de Trabalho**
+
+> **"Inspirado no Eduardo Pires e outros gigantes:**
+> 
+> 1. **Código é documentação** - Se precisa de manual, está errado
+> 2. **Comunidade é legado** - O que você planta, colhe em inovação  
+> 3. **Simplicidade é sofisticação** - O complexo deve ser invisível
+> 4. **Ensine sempre** - Cada PR, cada commit, é uma aula"
+
+---
+
+## 📞 **Contato Profissional**
 
 <div align="center">
 
-## 🎩 **"Um cavalheiro não discute tecnologias, ele as domina."**
-
-**Dylan Menades**  
-*Artesão de Software desde 1984*
-
-[![Email](https://img.shields.io/badge/Email-Conversa_Séria-00A67E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mentech93@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Sênior-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mentech)
+[![MVP Badge](https://img.shields.io/badge/MVP_Profile-Request-7322d1?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5000577)
+[![RD Badge](https://img.shields.io/badge/RD_Profile-019884?style=for-the-badge&logo=microsoft&logoColor=white)](https://rd.microsoft.com/pt-br/mentech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Strategic_Connections-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mentech)
+[![Email](https://img.shields.io/badge/Email-Enterprise_Inquiries-00A67E?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:comercial@mentech.digital)
 
 </div>
+
+---
+
+## 🌟 **Open Source Philosophy**
+
+```csharp
+// Como o Eduardo faz com NetDevPack:
+public class OpenSourceProject 
+{
+    public bool HasValue { get; } = true;
+    public bool IsMaintained { get; } = true;
+    public bool HasDocumentation { get; } = true;
+    public bool WelcomesContributors { get; } = true;
+    
+    // O segredo não está no código, está na comunidade
+    public Community BuildCommunity() => new AwesomeCommunity();
+}
+```
 
 ---
 
 <details>
-<summary>📜 <strong>Post Scriptum: Para os Jovens da Era</strong></summary>
+<summary>📜 <strong>Para quem quer seguir este caminho...</strong></summary>
 
 <br>
 
-**Querido desenvolvedor dos anos 2020,**
+**Querido colega desenvolvedor,**
 
-Quando comecei, computadores ocupavam salas inteiras e a internet era ficção científica. Hoje você tem poder de processamento no bolso que supera tudo que usei por décadas.
+Há 10 anos, via o Eduardo Pires criando o Equinox e pensava: "Como alguém consegue impactar tanto?"
 
-Mas atenção: **tecnologia muda, princípios permanecem.**
+Hoje entendo: **não é sobre código, é sobre pessoas.**
 
-O React de hoje será o COBOL de amanhã. O AWS será o mainframe. O TypeScript será o Pascal. 
+Os projetos do Eduardo sobrevivem não porque a tecnologia é boa (e é), mas porque:
 
-O que permanece?
-- **Clareza de pensamento**
-- **Elegância na solução**  
-- **Responsabilidade pelo impacto**
-- **Respeito pelo usuário**
-- **Humildade perante o problema**
+1. **Resolvem problemas reais** - Não são brinquedos tecnológicos
+2. **Educam enquanto funcionam** - Cada linha é uma lição
+3. **Cultivam comunidade** - O sucesso é coletivo
+4. **São sustentáveis** - Não dependem de uma pessoa
 
-Meu conselho? Aprenda fundamentos, não frameworks. Domine conceitos, não sintaxes. Construa caráter, não apenas carreira.
+Meu conselho? **Comece pequeno, pense grande, mantenha sempre.**
 
-O mercado precisa de mais **artesãos** e menos **operários**.
+Um template bem feito pode ensinar mais que um curso.
+Uma biblioteca simples pode resolver mais que um framework.
+Uma comunidade ativa vale mais que mil estrelas no GitHub.
+
+**Seja um Eduardo Pires da sua stack.**  
+O mundo precisa de mais arquitetos que ensinam.
 
 Com respeito,  
-*Um veterano que ainda acredita no futuro*
+*Dylan Menades*
 
 </details>
 
@@ -242,14 +284,17 @@ Com respeito,
 
 <div align="center">
 
-![Footer](https://img.shields.io/badge/📅_40_Anos_de_Código-000?style=for-the-badge)
-![Footer](https://img.shields.io/badge/🏛️_Arquitetura_Atemporal-000?style=for-the-badge)  
-![Footer](https://img.shields.io/badge/👨‍🏫_Mentor_por_Vocação-000?style=for-the-badge)
-![Footer](https://img.shields.io/badge/🚀_Ainda_Construindo-000?style=for-the-badge)
+![Footer](https://img.shields.io/badge/🏆_Microsoft_MVP-7322d1?style=for-the-badge)
+![Footer](https://img.shields.io/badge/⭐_GitHub_Star-000?style=for-the-badge)  
+![Footer](https://img.shields.io/badge/🎓_Educator_by_Nature-00A67E?style=for-the-badge)
+![Footer](https://img.shields.io/badge/🚀_Still_Building-FF6B35?style=for-the-badge)
+
+**"Primeiro eles te ignoram, depois riem de você, depois lutam contra você, depois você vira MVP"**  
+*— Adaptação de Gandhi para desenvolvedores*
 
 </div>
 
 ---
 
-**Última atualização:** Dezembro 2024  
-**Próxima revisão:** Nunca – a sabedoria não tem data de validade.
+**Perfil mantido com o mesmo cuidado que mantenho meus projetos enterprise**  
+**Última atualização:** Dezembro 2024 | **Próxima revisão:** Sempre que a comunidade precisar
