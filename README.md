@@ -1,21 +1,28 @@
-# 👨‍💻 Dylan Menades
+# 👨‍💻 Dylan Menades | Mentech Digital
 
-**`Desenvolvedor FullStack | Criador de Conteúdo Tech`**
+**`Desenvolvedor FullStack | Criador de Conteúdo Tech | Mentor`**
 
 <div align="center">
-  
-![Banner Tech](https://github.com/mentech93/mentech93/blob/main/assets/banner-tech.gif?raw=true)
 
+![Banner Tech](https://github.com/mentech93/mentech93/blob/main/assets/banner-tech.gif?raw=true)
 *Transformando ideias em soluções digitais inovadoras*
 
 </div>
 
-## **Sobre Mim**
-Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais modernas, eficientes e escaláveis. Com experiência tanto no front-end quanto back-end, desenvolvo aplicações completas - desde a interface do usuário até a lógica de servidor e banco de dados.
+---
 
-🎯 **Meu objetivo:** Transformar problemas complexos em soluções elegantes e funcionais, sempre aplicando as melhores práticas de desenvolvimento.
+## 📺 **Conteúdo & Educação**
 
-📚 **Como educador:** Divulgo conhecimento através do canal **[Mentech Digital](http://www.youtube.com/@Mentecch?sub_confirmation=1)** no YouTube, onde ensino desenvolvimento web de forma prática e acessível.
+<div align="center">
+
+### 🎥 **Mentech Digital - YouTube**
+[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mentecch?sub_confirmation=1)
+[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=INSCRITOS&color=FF0000)](https://youtube.com/@Mentecch?sub_confirmation=1)
+[![Views](https://img.shields.io/youtube/channel/views/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=VISUALIZAÇÕES&color=FF0000)](https://www.youtube.com/@Mentecch)
+
+**🎯 Conteúdo:** Tutoriais de programação, projetos práticos, dicas de carreira tech, desenvolvimento web/mobile
+
+</div>
 
 ---
 
@@ -23,9 +30,25 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 <div align="center">
 
-| **Estatísticas** | **Linguagens** | **Contribuições** |
+| **Estatísticas** | **Linguagens Mais Usadas** | **Contribuições** |
 |:---:|:---:|:---:|
 | ![Estatísticas](https://github-readme-stats.vercel.app/api?username=mentech93&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=fff&hide_border=true&include_all_commits=true&count_private=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mentech93&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=fff&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mentech93&theme=radical&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=fff&hide_border=true) |
+
+</div>
+
+---
+
+## 🏆 **Projetos Populares**
+
+<div align="center">
+
+### ⭐ **Destaques da Comunidade**
+| Projeto | Descrição | Tecnologias | Stars |
+|:---|:---|:---|:---:|
+| **[🔗 Sistema Web Completo](https://github.com/mentech93)** | Dashboard com autenticação e relatórios | `React` `Node.js` `MongoDB` | ![Stars](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) |
+| **[🔗 API REST Avançada](https://github.com/mentech93)** | Microserviços com Docker e Kubernetes | `Express` `JWT` `PostgreSQL` `Docker` | ![Stars](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) |
+| **[🔗 E-commerce Moderno](https://github.com/mentech93)** | Loja online com pagamento integrado | `Next.js` `Stripe` `Tailwind` | ![Stars](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) |
+| **[🔗 App Mobile React Native](https://github.com/mentech93)** | Aplicativo com notificações push | `React Native` `Firebase` `Redux` | ![Stars](https://img.shields.io/github/stars/mentech93/repo?style=flat-square) |
 
 </div>
 
@@ -84,56 +107,38 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 ---
 
-## 🎯 **Projetos em Destaque**
+## 📈 **Atividades & Contribuições**
 
 <div align="center">
 
-| Projeto | Descrição | Tecnologias |
-|:---:|:---|:---|
-| **[🔗 Projeto JS](https://github.com/mentech93)** | Sistema web completo com dashboard | `React` `Node.js` `MongoDB` |
-| **[🔗 API REST](https://github.com/mentech93)** | API escalável com autenticação JWT | `Express` `JWT` `PostgreSQL` |
-| **[🔗 E-commerce](https://github.com/mentech93)** | Plataforma de vendas online | `Next.js` `Stripe` `Tailwind` |
-| **[🔗 App Mobile](https://github.com/mentech93)** | Aplicativo React Native | `React Native` `Firebase` |
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mentech93&theme=react-dark&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub)
 
 </div>
 
 ---
 
-## 📈 **Atividades Recentes**
+## 🎯 **Sobre Mim**
 
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mentech93&theme=react-dark&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true)
+Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais modernas, eficientes e escaláveis. Com experiência tanto no front-end quanto back-end, desenvolvo aplicações completas - desde a interface do usuário até a lógica de servidor e banco de dados.
 
-</div>
-
----
-
-## 🎥 **Conteúdo & Educação**
-
-<div align="center">
-
-### 📺 **Mentech Digital - YouTube**
-[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mentecch)
-[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=INSCRITOS&color=FF0000)](https://youtube.com/@Mentecch?sub_confirmation=1)
-[![Views](https://img.shields.io/youtube/channel/views/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=VISUALIZAÇÕES&color=FF0000)](https://www.youtube.com/@Mentecch)
-
-**🎯 Foco:** Tutoriais de programação, projetos práticos, dicas de carreira tech
-
-</div>
+**Minha missão:**
+- 🎯 Transformar problemas complexos em soluções elegantes e funcionais
+- 📚 Compartilhar conhecimento através do canal **Mentech Digital**
+- 🚀 Desenvolver aplicações que fazem a diferença
+- 👨‍🏫 Mentoriar novos desenvolvedores na comunidade tech
 
 ---
 
-## 🤝 **Vamos Conectar!**
+## 🤝 **Conecte-se Comigo**
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&width=150)](https://www.youtube.com/@Mentecch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=150)](https://linkedin.com/in/mentech)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&width=150)](https://github.com/mentech93)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&width=150)](https://instagram.com/mentech.digital)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&width=150)](https://twitter.com/mentechdigital)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&width=150)](https://discord.gg/mentech)
+[![YouTube](https://img.shields.io/badge/YouTube-Mentech_Digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white&width=200)](https://www.youtube.com/@Mentecch?sub_confirmation=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan_Menades-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=200)](https://linkedin.com/in/mentech)
+[![GitHub](https://img.shields.io/badge/GitHub-mentech93-100000?style=for-the-badge&logo=github&logoColor=white&width=200)](https://github.com/mentech93)
+[![Instagram](https://img.shields.io/badge/Instagram-mentech.digital-E4405F?style=for-the-badge&logo=instagram&logoColor=white&width=200)](https://instagram.com/mentech.digital)
+[![Twitter](https://img.shields.io/badge/Twitter-mentechdigital-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&width=200)](https://twitter.com/mentechdigital)
+[![Email](https://img.shields.io/badge/Email-mentech93@gmail.com-00A67E?style=for-the-badge&logo=gmail&logoColor=white&width=200)](mailto:mentech93@gmail.com)
 
 </div>
 
@@ -146,6 +151,29 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 ![Profile Views](https://komarev.com/ghpvc/?username=mentech93&color=00ff88&style=for-the-badge&label=VISITAS+AO+PERFIL)
 ![Followers](https://img.shields.io/github/followers/mentech93?color=00ff88&label=Seguidores&style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/github/stars/mentech93?color=00ff88&label=Estrelas&style=for-the-badge)
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcWlxIula7x3hl0RWMJWDiA?style=for-the-badge&logo=youtube&label=INSCRITOS+YOUTUBE&color=FF0000)
+
+</div>
+
+---
+
+## 💡 **Influência & Inspiração**
+
+<div align="center">
+
+*Inspirado pelo trabalho de grandes desenvolvedores como Eduardo Pires*
+
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <a href="https://github.com/EduardoPires/EquinoxProject" target="_blank">
+    <img width="80px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/84bdee01-5b6b-42ec-b888-2d07a1ea9d45" alt="Equinox Project" title="Equinox Project" />
+  </a>
+  <a href="https://github.com/desenvolvedor-io/dev-store" target="_blank">
+    <img width="80px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/eda9b7c2-eb91-4264-8f18-fcc831894a95" alt="Dev Store" title="Dev Store" />
+  </a>
+  <a href="https://github.com/NetDevPack/NetDevPack" target="_blank">
+    <img width="80px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/e0743a7b-3ae0-4335-9e08-076e03b110f9" alt="NetDevPack" title="NetDevPack" />
+  </a>
+</div>
 
 </div>
 
@@ -153,10 +181,20 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções digitais mode
 
 <div align="center">
 
-### 💡 **"Código é poesia, e cada linha conta uma história"**
+### ✨ **"Código é poesia, e cada linha conta uma história de inovação"**
 
-⭐ **Se encontrar algo interessante, não hesite em dar uma estrela!**
+⭐ **Se encontrar algo interessante, não hesite em dar uma estrela nos repositórios!**
 
-📧 **Interessado em colaborar?** [Entre em contato!](mailto:mentech93@gmail.com)
+🎥 **Inscreva-se no canal:** [youtube.com/@Mentecch](https://www.youtube.com/@Mentecch?sub_confirmation=1)
+
+🚀 **Pronto para o próximo projeto?** Vamos conversar!
+
+</div>
+
+---
+
+<div align="center">
+
+*"A tecnologia é melhor quando une as pessoas" - Matt Mullenweg*
 
 </div>
